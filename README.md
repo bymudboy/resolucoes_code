@@ -16,5 +16,5 @@ Este repositório contém três exercícios básicos desenvolvidos como parte de
 ## Tecnologias
 
 - Linguagem: **Python**
-- Ambiente sugerido: Github Codespace 
+- Ambiente sugerido: **Github Codespace**
 
